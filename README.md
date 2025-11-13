@@ -1,2 +1,0 @@
-# Spotlight Social
-Coming soon!
