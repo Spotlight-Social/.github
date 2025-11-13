@@ -1,1 +1,2 @@
-# .github
+# Spotlight Social
+Coming soon!
